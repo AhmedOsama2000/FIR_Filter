@@ -14,8 +14,9 @@
     * Fcutf             = 24 KHz
     * Fsampling         = 160 KHz
     * Apass_attenuation = -0.1 db
-    * Astop_attenuation = -50 db
-  
+    * Astop_attenuation = -50 db 
+  ##
+
     > - Using hamming windowing mehthod
     > - To achieve this requirement the order should be **```66```** 
     > - Length = **```67```** 
