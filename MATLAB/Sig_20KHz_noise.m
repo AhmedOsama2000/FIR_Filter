@@ -1,4 +1,5 @@
 %% Generate a signal to test the FIR Filter 
+%% Generate a sine wave then add some noise to it
 % Set the parameters
 clear;
 clc;
